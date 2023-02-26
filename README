@@ -1,7 +1,18 @@
 First create
 second midify master
+second midify testbranch
+third modify
 third modify
 --------- test fetch master
 ----------- master master
 ---------- pull test master local
 ------pull test master
+forth commit on test-branch
+----------test fetch test branch
+------------------ test test
+------------------pull test local
+------pull test remote
+2. fo local pull test
+1. on remote test
+ooooooooooooooooooooooooooooooooo
+hhhhhhhhhhhhhhhhhhhhhhhh
